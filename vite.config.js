@@ -5,5 +5,5 @@ export default defineConfig({
   plugins: [
     tailwindcss(),
   ],
-  base:"Pro4Gallary"
+  base:"/Pro4Gallary",
 })
